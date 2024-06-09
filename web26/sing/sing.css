@@ -1,0 +1,10 @@
+.container mt-3{
+    margin: 50%;
+}
+#icons{
+    width: 100%;
+    height: fit-content;
+    display: block;
+    justify-items: center;
+
+}
